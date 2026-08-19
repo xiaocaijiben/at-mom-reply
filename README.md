@@ -1,6 +1,7 @@
 # @ 即回复「妈妈」插件
 
 群聊中只要有人 @ 到 bot，bot 就会在群里 @ 对方并回复文本「妈妈」。
+（本插件使用deepseek-v4-flash生成）
 
 - 适用 MaiBot：Host ≥ 1.0.0，≤ 1.2.99
 - 适用 SDK：Maibot Plugin SDK 2.x（Python ≥ 3.10）
