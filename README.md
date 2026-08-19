@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/31224377/README.md)
 # @ 即回复「妈妈」插件
 
 群聊中只要有人 @ 到 bot，bot 就会在群里 @ 对方并回复文本「妈妈」。
@@ -19,8 +20,8 @@
 从本仓库下载最新发布包，将 `at_mom_reply` 目录放到 MaiBot 的 `plugins/` 目录下：
 
 ```bash
-# 示例（仓库地址上传前请替换为你的真实地址）
-git clone https://github.com/your-name/at-mom-reply.git temp_repo
+
+git clone https://github.com/xiaocaijiben/at-mom-reply temp_repo
 cp -r temp_repo/at_mom_reply <你的MaiBot目录>/plugins/
 ```
 
