@@ -1,0 +1,38 @@
+{
+  "manifest_version": 2,
+  "version": "1.0.0",
+  "name": "@ 即回复「妈妈」",
+  "description": "群聊中只要有人 @ bot，就在群里 @ 对方并回复文本「妈妈」（可配置）。基于 Maibot Plugin SDK 2.x，使用 chat.receive.after_process Hook 监听，不干扰 LLM 主链路。",
+  "author": {
+    "name": "xiaocaijiben",
+    "url": "https://github.com/xiaocaijiben"
+  },
+  "id": "yourname.at-mom-reply",
+  "license": "MIT",
+  "urls": {
+    "repository": "https://github.com/xiaocaijiben/at-mom-reply",
+    "homepage": "https://github.com/xiaocaijiben/at-mom-reply",
+    "documentation": "https://github.com/xiaocaijiben/at-mom-reply",
+    "issues": "https://github.com/xiaocaijiben/at-mom-reply/issues"
+  },
+  "host_application": {
+    "min_version": "1.0.0",
+    "max_version": "1.2.99"
+  },
+  "sdk": {
+    "min_version": "2.0.0",
+    "max_version": "2.99.99"
+  },
+  "dependencies": [],
+  "capabilities": [
+    "send.hybrid"
+  ],
+  "i18n": {
+    "default_locale": "zh-CN",
+    "locales_path": "_locales",
+    "supported_locales": [
+      "zh-CN"
+    ]
+  },
+  "changelog": "CHANGELOG.md"
+}

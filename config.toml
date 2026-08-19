@@ -1,0 +1,8 @@
+[plugin]
+enabled = true
+config_version = "1.0.0"
+
+[reply]
+at_sender = true
+reply_text = "妈妈"
+cooldown_seconds = 2.0

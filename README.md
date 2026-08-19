@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31224377/README.md)
 # @ 即回复「妈妈」插件
 
 群聊中只要有人 @ 到 bot，bot 就会在群里 @ 对方并回复文本「妈妈」。
